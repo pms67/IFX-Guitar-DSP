@@ -1,0 +1,4 @@
+../Core/Src/IFX_NoiseGate.c:3:6:IFX_NoiseGate_Init	32	static
+../Core/Src/IFX_NoiseGate.c:25:7:IFX_NoiseGate_Update	24	static
+../Core/Src/IFX_NoiseGate.c:77:6:IFX_NoiseGate_SetThreshold	16	static
+../Core/Src/IFX_NoiseGate.c:81:6:IFX_NoiseGate_SetAttackReleaseTime	24	static

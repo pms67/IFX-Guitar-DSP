@@ -1,0 +1,3 @@
+../Core/Src/IFX_PeakingFilter.c:3:6:IFX_PeakingFilter_Init	2
+../Core/Src/IFX_PeakingFilter.c:22:6:IFX_PeakingFilter_SetParameters	1
+../Core/Src/IFX_PeakingFilter.c:41:7:IFX_PeakingFilter_Update	1

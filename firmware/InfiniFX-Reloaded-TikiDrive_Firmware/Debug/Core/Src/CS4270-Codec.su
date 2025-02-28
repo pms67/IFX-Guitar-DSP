@@ -1,0 +1,4 @@
+../Core/Src/CS4270-Codec.c:12:9:CS4270_Init	16	static
+../Core/Src/CS4270-Codec.c:73:6:CS4270_Reset	8	static
+../Core/Src/CS4270-Codec.c:83:19:CS4270_RegWrite	32	static
+../Core/Src/CS4270-Codec.c:89:19:CS4270_RegRead	32	static

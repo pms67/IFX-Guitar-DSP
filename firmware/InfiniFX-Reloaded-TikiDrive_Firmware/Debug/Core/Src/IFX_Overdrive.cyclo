@@ -1,0 +1,5 @@
+../Core/Src/IFX_Overdrive.c:75:6:IFX_Overdrive_Init	2
+../Core/Src/IFX_Overdrive.c:104:6:IFX_Overdrive_SetGain	1
+../Core/Src/IFX_Overdrive.c:110:6:IFX_Overdrive_SetHPF	1
+../Core/Src/IFX_Overdrive.c:116:6:IFX_Overdrive_SetLPF	1
+../Core/Src/IFX_Overdrive.c:123:7:IFX_Overdrive_Update	7

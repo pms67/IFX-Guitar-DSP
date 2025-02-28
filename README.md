@@ -1,2 +1,3 @@
-# IFX-Guitar-DSP
- InfiniFX guitar DSP platform
+# InfiniFX Guitar DSP Platform
+ 
+ Sample code to accompany YouTube DSP tutorials.

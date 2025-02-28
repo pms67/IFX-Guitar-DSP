@@ -1,0 +1,3 @@
+../Core/Src/IFX_DelayLine.c:3:6:IFX_DelayLine_Init	2
+../Core/Src/IFX_DelayLine.c:18:7:IFX_DelayLine_Update	2
+../Core/Src/IFX_DelayLine.c:39:6:IFX_DelayLine_SetLength	2

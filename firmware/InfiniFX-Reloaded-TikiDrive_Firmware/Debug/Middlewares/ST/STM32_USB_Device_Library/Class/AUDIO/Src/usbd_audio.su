@@ -1,0 +1,17 @@
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:352:16:USBD_AUDIO_Init	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:415:16:USBD_AUDIO_DeInit	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:448:16:USBD_AUDIO_Setup	32	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:574:17:USBD_AUDIO_GetCfgDesc	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:588:16:USBD_AUDIO_DataIn	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:603:16:USBD_AUDIO_EP0_RxReady	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:633:16:USBD_AUDIO_EP0_TxReady	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:646:16:USBD_AUDIO_SOF	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:660:6:USBD_AUDIO_Sync	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:729:16:USBD_AUDIO_IsoINIncomplete	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:743:16:USBD_AUDIO_IsoOutIncomplete	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:768:16:USBD_AUDIO_DataOut	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:835:13:AUDIO_REQ_GetCurrent	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:859:13:AUDIO_REQ_SetCurrent	24	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:887:17:USBD_AUDIO_GetDeviceQualifierDesc	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:900:9:USBD_AUDIO_RegisterInterface	16	static
+../Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio.c:943:14:USBD_AUDIO_GetAudioHeaderDesc	32	static

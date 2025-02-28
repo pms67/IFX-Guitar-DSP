@@ -1,0 +1,2 @@
+../Core/Src/IFX_MovingRMS.c:3:6:IFX_MovingRMS_Init	24	static
+../Core/Src/IFX_MovingRMS.c:22:7:IFX_MovingRMS_Update	24	static
