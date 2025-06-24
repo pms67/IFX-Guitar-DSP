@@ -5,7 +5,7 @@
 #include "IFX_MRMS.h"
 
 
-#define IFX_COMPRESSOR_RMSWINDOW_MS			  50c // 50ms = 1 cycle of 20Hz
+#define IFX_COMPRESSOR_RMSWINDOW_MS			  50 // 50ms = 1 cycle of 20Hz
 
 #define IFX_COMPRESSOR_THRESHOLD_MIN_DB		-100
 #define IFX_COMPRESSOR_THRESHOLD_MAX_DB		   0
